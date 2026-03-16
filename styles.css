@@ -9,7 +9,7 @@
    EXERCISE 1 — Global / Reset Styles
 --------------------------------------------------------------- */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
   background-color: #f5f5f5;
   color: #333333;
   margin: 0;
@@ -150,7 +150,6 @@ cite {
   padding: 12px 24px;
   border-radius: 4px;
   font-size: 1rem;
-  transition: all 0.3s ease;
 }
 
 /* ---------------------------------------------------------------
@@ -158,6 +157,7 @@ cite {
 --------------------------------------------------------------- */
 .btn:hover {
   background-color: #f39c12;
+  transition: all 0.3s ease;
 }
 /* ---------------------------------------------------------------
    EXERCISE 15 — Footer
