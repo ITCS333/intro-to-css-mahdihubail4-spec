@@ -150,18 +150,15 @@ cite {
   padding: 12px 24px;
   border-radius: 4px;
   font-size: 1rem;
+  transition: all 0.3s ease;
 }
-
 
 /* ---------------------------------------------------------------
    EXERCISE 14 — Button Link Hover State
 --------------------------------------------------------------- */
 .btn:hover {
   background-color: #f39c12;
-  transition: all 0.3s ease;
 }
-
-
 /* ---------------------------------------------------------------
    EXERCISE 15 — Footer
 --------------------------------------------------------------- */
